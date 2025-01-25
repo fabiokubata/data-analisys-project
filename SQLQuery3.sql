@@ -1,0 +1,2 @@
+USE lojaeletronicos
+CREATE TABLE Vendas (id_cliente int, nome_cliente varchar (70), produto varchar (70),cidade varchar(50),estado varchar (50), data_venda date, preco decimal (8, 2), quantidade int)  
