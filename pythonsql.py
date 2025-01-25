@@ -2,8 +2,8 @@ import pyodbc
 
 dados_conexao = (
     "Driver={SQL Server};"
-    "Server=DESKTOP-J11QNPU\SQLEXPRESS;"
-    "Database=lojaeletronicos;"
+    "Server=DESKTOP-J11QNPU\SQLEXPRESS;" #Inserir o nome do servidor em que o DB está localizado.
+    "Database=lojaeletronicos;"  #Inserir o nome do banco de dados criado.
 
 )
 
